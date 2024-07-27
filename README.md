@@ -21,7 +21,7 @@ e.g :
 
 ### screenshot :
 
-<img src='' />
+<img src='https://raw.githubusercontent.com/o-sec/powervoodoo/main/powervoodoo_screenshot.png' />
 
 ### disclaimer :
 i am not responsable for whatever you do with this tool !
