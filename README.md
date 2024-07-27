@@ -9,7 +9,7 @@ powervoodoo is (windows/linux) reverse shell payload generator and handler that 
 
 ### installation :
 clone the github repo :
-`git clone GITREPO `
+`git clone https://github.com/o-sec/powervoodoo.git `
 ### usage :
 ```
 usage :
