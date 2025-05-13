@@ -13,7 +13,7 @@ Windows/Linux reverse shell made easy
 -  Generates a variety of oneliner stagers to deliver the payloads effectively
 -  Launch an HTTP server to host payloads for download on the target machine
 -  Open a Netcat listener to catch incoming reverse shell connections
--  Change themes by commenting/uncommenting a line in the top source code
+-  Change themes by commenting/uncommenting a line at the top of the source code
 
 ### Prerequisites:
 install the needed packages:
@@ -28,7 +28,7 @@ rlwrap
 `git clone https://github.com/o-sec/powervoodoo.git `
 
 ### Themes:
-the tool supports 3 different command line themes (`GREEN_AND_WHITE`, `YELLOW_AND_WHITE`, and `PURPLE_AND_WHITE`) , you can change between them by commenting/uncommenting it's representative line in the top of source code.
+the tool supports 3 different command-line themes (`GREEN_AND_WHITE`, `YELLOW_AND_WHITE`, and `PURPLE_AND_WHITE`) , you can change between them by commenting/uncommenting it's representative line in the top of the source code.
 
 ### Screenshots:
 **purple**
